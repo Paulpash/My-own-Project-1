@@ -1,0 +1,12 @@
+# Ask the user to a password in the account and a new line
+# Ask the user to put amount to create account and a new line
+# Ask the user to Enter 1 to check the balance, Enter 2 to deposit on account, Enter 3 to withdraw fromm account, Enter 4 to transfer and new line
+# Enter the pin and new line
+if (pin == pasword)
+ Cases after the Asking the users..
+
+ Case.1 
+ prints the balance
+
+ Case
+  #ask to enter amount to deposit
